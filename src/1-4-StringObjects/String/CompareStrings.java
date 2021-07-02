@@ -16,7 +16,7 @@ public class CompareStrings {
             System.out.println(theyAreTheSame);}
         else if(s1.equalsIgnoreCase(s2)){
 
-            System.out.println(theyAreTheSame+" characters");} 
+            System.out.println(theyAreTheSame+" characters test");}
         else{}
   }
 }
